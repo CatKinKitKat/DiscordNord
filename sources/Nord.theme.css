@@ -1,0 +1,40 @@
+/**
+ * @name Nord
+ * @author CatKinKitKat#1363
+ * @version 1.0
+ * @description Make your Nord themed desktop cohesive with Nord for Discord
+ * @source https://github.com/CatKinKitKat/DiscordNord
+*/
+
+@import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
+
+/* Full user popout*/
+
+@import url('https://asteria5675.github.io/addons/full_popout_avatars.css');
+
+/* Black Box user tags */
+
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+
+/* User badges */
+
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+    --primary: #4c566a;
+    --primaryGradient2: #4c566a;
+    --backgroundDark: #2e3440;
+    --backgroundDarker: #4c566a;
+    --DangerColor: #dc3545;
+    --WarningColor: #ffc107;
+    --SuccessColor: #28a745;
+    --rs-small-spacing: 1px;
+    --rs-large-spacing: 1px;
+    --rs-width: 2px;
+    --rs-avatar-shape: 100%;
+    --rs-online-color: #a3be8c;
+    --rs-idle-color: #d08770;
+    --rs-dnd-color: #bf616a;
+    --rs-offline-color: #4c566a;
+    --rs-streaming-color: #b48ead;
+    --rs-invisible-color: #e5e9f0;
+}
