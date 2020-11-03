@@ -1,24 +1,22 @@
 /**
  * @name Nord
  * @author CatKinKitKat#1363
- * @version 1.0
- * @description Make your Nord themed desktop cohesive with Nord for Discord
+ * @version 1.1
+ * @description Make your Nord themed desktop cohesive with Nord for Discord, this was made with the codedotspectra's Nocturnal theme as a base.
  * @source https://github.com/CatKinKitKat/DiscordNord
 */
 
 @import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
 
-/* Full user popout*/
+/* Nocturnal theme extras */
 
-@import url('https://asteria5675.github.io/addons/full_popout_avatars.css');
+@import url('https://codedotspectra.github.io/themes/core/hljs.css');
+@import url('https://codedotspectra.github.io/themes/core/settings-icons.css');
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url('https://codedotspectra.github.io/themes/core/badges.css');
 
-/* Black Box user tags */
+/* Colours */
 
-@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
-
-/* User badges */
-
-@import url("https://codedotspectra.github.io/themes/core/badges.css");
 :root {
     --primary: #4c566a;
     --primaryGradient2: #4c566a;
@@ -27,6 +25,7 @@
     --DangerColor: #dc3545;
     --WarningColor: #ffc107;
     --SuccessColor: #28a745;
+    /* Radial Status */
     --rs-small-spacing: 1px;
     --rs-large-spacing: 1px;
     --rs-width: 2px;
