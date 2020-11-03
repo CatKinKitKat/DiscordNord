@@ -1,6 +1,6 @@
 # DiscordNord
 ## Intro
-Make your Nord themed desktop cohesive with Nord for Discord.
+Make your Nord themed desktop cohesive with Nord for Discord. This was made with the [codedotspectra](https://github.com/codedotspectra)'s Nocturnal theme as a base.
 
 IT REQUIRES THE BETTER DISCORD / BANDAGEDBD MOD.
 
